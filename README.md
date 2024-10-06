@@ -127,10 +127,6 @@ This project is licensed under the MIT License.
 
 ---
 
-### `.env.example` file:
 
-```plaintext
-API_KEY=your-google-gemini-api-key
-```
 
 
