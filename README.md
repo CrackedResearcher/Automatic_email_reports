@@ -1,4 +1,4 @@
-# Auto email summarizer 
+# Auto Email Summarizer 
 
 This was the **first version** of CalmEmail. I started working on it out of the blue in June, thinking, "What if I could build something that automatically sends me email summaries at specific intervals?" So, I built this tool.
 
@@ -77,7 +77,7 @@ cp .env.example .env
 
 2. Then edit your `.env` file to look like this:
 
-```plaintext
+```bash
 API_KEY=your-google-gemini-api-key
 ```
 
@@ -97,7 +97,7 @@ The project will ask you for your email config and when you want it to run. Itâ€
 
 Here's what you'll need to install (this is already in the `requirements.txt` file):
 
-```plaintext
+```bash
 google-generativeai
 python-dotenv
 requests
@@ -126,7 +126,3 @@ If you want to contribute to the project, feel free to fork the repository and s
 This project is licensed under the MIT License.
 
 ---
-
-
-
-
