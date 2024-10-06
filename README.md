@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
-
 # Auto email summarizer 
 
 This was the **first version** of CalmEmail. I started working on it out of the blue in June, thinking, "What if I could build something that automatically sends me email summaries at specific intervals?" So, I built this tool.
@@ -137,6 +133,4 @@ This project is licensed under the MIT License.
 API_KEY=your-google-gemini-api-key
 ```
 
----
 
->>>>>>> 3da6d6b (Commit for the first version of CalmEmail)
