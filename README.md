@@ -1,5 +1,7 @@
 # Auto Email Summarizer 
 
+psst...
+
 This was the **first version** of CalmEmail. I started working on it out of the blue in June, thinking, "What if I could build something that automatically sends me email summaries at specific intervals?" So, I built this tool.
 
 ## What It Does
@@ -126,3 +128,6 @@ If you want to contribute to the project, feel free to fork the repository and s
 This project is licensed under the MIT License.
 
 ---
+
+
+long time huhhh....
