@@ -1,6 +1,6 @@
 # Auto Email Summarizer 
 
-psst...
+tldr
 
 This was the **first version** of CalmEmail. I started working on it out of the blue in June, thinking, "What if I could build something that automatically sends me email summaries at specific intervals?" So, I built this tool.
 
